@@ -1,0 +1,5 @@
+wres = input("type hours: ")
+minutes = input("type minutes: ")
+seconds = input("type seconds: ")
+message = (str(wres)+':'+str(minutes)+':' + str(seconds))
+print(message)
